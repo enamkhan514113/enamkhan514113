@@ -1,4 +1,4 @@
-- 👋 Hi, I’m A. F. M. Enamul Hossain Khan
+- 👋 Hi, I’m A.F.M. Enamul Hossain Khan
 - 👀 I’m interested in Web development, Graphics Design and Business Development
 - 🌱 I’m currently learning PHP and UI/UX Designing
 - 💞️ I’m looking to collaborate on learning new things and enrich my knowladge, also will love to take any suggestion.
